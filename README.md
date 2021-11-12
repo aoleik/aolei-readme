@@ -2,7 +2,7 @@
 
 ## Learning reflaction 
 
- **Sunday**
+ **Monday**
  
 Actually I was really anxious in Monday, because I know nothing about computing.
 Also I am remote learner, so I only can get information from reading list, at the first I can’t figure out what is readme file, markdown and GitHub. And I’m not good at self-study.
